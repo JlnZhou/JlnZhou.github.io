@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Accueil
 ---
-# {{ "Hello World!" | downcase }}
+# "Hello !"
 
