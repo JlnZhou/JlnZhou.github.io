@@ -6,3 +6,4 @@ description: A venir
 # google_analytics: [Your Google Analytics tracking ID]
 collections:
   authors:
+    output: true
