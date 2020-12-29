@@ -2,5 +2,6 @@
 layout: default
 title: Accueil
 ---
-# Hello !
+# Page d'accueil
 
+Bonjour à tous.
