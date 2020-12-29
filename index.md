@@ -1,4 +1,4 @@
 ---
 ---
 
-<h1> {{ Hello world | downcase }} </h1>
+<h1> {{ "Hello world" | downcase }} </h1>
