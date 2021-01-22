@@ -2,12 +2,6 @@
   link: /
 - name: A propos
   link: /about.html
-  name: Github
-  link: https://github.com/JlnZhou
-  name: Twitter
-  link: https://twitter.com/epicorz
-  name: LinkedIn
-  link: https://www.linkedin.com/in/julien-zhou
 - name: Blog
   link: /blog.html
 - name: Staff
