@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Qui suis-je?
+title: A propos
+description: Qui suis-je?
 ---
 
 # A propos
