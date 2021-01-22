@@ -1,5 +1,7 @@
 - name: Accueil
   link: /
+- name: Blog
+  link: /blog.html
 - name: A propos
   link: /about.html
 - name: GitHub
@@ -8,5 +10,3 @@
   link: https://twitter.com/epicorz
 - name: LinkedIn
   link: https://www.linkedin.com/in/julien-zhou
-- name: Blog
-  link: /blog.html
