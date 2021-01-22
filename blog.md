@@ -1,14 +1,12 @@
 ---
 layout: default
 title: Blog
+description: 
 ---
-<h1>Latest Posts</h1>
+# Articles
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+- ## <a href="{{ post.url }}">{{ post.title }}</a>
+  ​    {{ post.excerpt }}
+{% endfor %}
+
