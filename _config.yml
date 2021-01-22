@@ -4,21 +4,3 @@ description: Site personel de Julien Zhou
 # logo: [Location of the logo]
 # show_downloads: ["true" or "false" to indicate whether to provide a download URL]
 # google_analytics: [Your Google Analytics tracking ID]
-collections:
-  authors:
-    output: true
-defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
