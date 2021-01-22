@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-description: nil
+description: Bloguons!
 ---
 # Articles
 
