@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-description: Bloguons!
+description: Blig Blag Blog
 ---
 # Articles
 
