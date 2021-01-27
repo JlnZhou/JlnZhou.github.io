@@ -1,8 +1,8 @@
-- name: Accueil
+- name: Accueil / Home
   link: /
 - name: Blog
   link: /blog.html
-- name: A propos
+- name: A propos / About
   link: /about.html
 - name: GitHub
   link: https://github.com/JlnZhou
