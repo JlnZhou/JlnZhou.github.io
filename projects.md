@@ -14,5 +14,5 @@ ___
 # CentraleSupélec 2018/2019
 In 2018/2019, I spent my last year at CentraleSupélec specializing in Applied Mathematics.   
 These repositories are kind of messy and need to be tidied up, but if you are curious... Here they are, I warned you:
-- [Deep learning homework](https://github.com/JlnZhou/MVA_DeepLearning_2018_2019): Homework projects for a Deep Learning course.
+- [Deep Learning homework](https://github.com/JlnZhou/MVA_DeepLearning_2018_2019): Homework projects for a Deep Learning course.
 - [Image segmentation](https://github.com/JlnZhou/Safran_projet): A little project which goal was to try get an unsupervised segmentation for X-ray scans of a composite material.
