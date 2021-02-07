@@ -8,8 +8,9 @@ Here are links to some of my projects.
 ___
 # Work In Progress
 I am currently working on several things as a hobby:
-- [Google Kick Start 2020](https://github.com/JlnZhou/GoogleKickStart2020): Some problems of the 2020 edition for the Google Kick Start Challenge.
+- [Google Kick Start 2020](https://github.com/JlnZhou/GoogleKickStart2020): Some problems of the 2020 edition for the [Google Kick Start Challenge](https://codingcompetitions.withgoogle.com/kickstart).
 - [Challenge Data / Land cover predictive modeling from satellite images by Preligens](https://github.com/JlnZhou/ChallengeDataPreligens2021): A challenge from the [Challenge Data website of ENS and Collège de France](https://challengedata.ens.fr/).
+
 ___
 # CentraleSupélec 2018/2019
 In 2018/2019, I spent my last year at CentraleSupélec specializing in Applied Mathematics.   
