@@ -6,6 +6,11 @@ description: Not really impressed...
 Here are links to some of my projects.
 
 ___
+# Project Euler
+Some solutions for [Project Euler Challenges](https://projecteuler.net/): [Repository](https://github.com/JlnZhou/ProjectEuler).  
+I began coding in Python, and decided to continue from the 4th problem, in C++ in order to train myself.
+
+___
 # Google KickStart
 Some solutions for the [Google Kick Start Challenge](https://codingcompetitions.withgoogle.com/kickstart):
 - [Google Kick Start 2020](https://github.com/JlnZhou/GoogleKickStart2020)
